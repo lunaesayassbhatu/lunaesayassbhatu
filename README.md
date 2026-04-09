@@ -1,44 +1,59 @@
-# Hi, I'm Luna Sbahtu 👋
+# Hi, I'm Luna Issaias Sbahtu 👋
 
-**Computer Science & Engineering Graduate Student at Arizona State University**  
-Specializing in Data Mining, Machine Learning, and Computer Vision.
+**M.S. Data Science, Analytics & Engineering — Arizona State University (GPA: 4.0)**  
+Co-Founder & Lead Data Scientist · 5+ years building ML systems and analytical pipelines on large-scale datasets.
+
+📍 Tempe, AZ &nbsp;|&nbsp; 📧 lsbahtu@asu.edu &nbsp;|&nbsp; 🔗 [linkedin.com/in/luna-sbahtu](https://linkedin.com/in/luna-sbahtu)
 
 ---
 
 ## About Me
 
-I build end-to-end machine learning systems — from raw data to deployed models. My work spans classical ML, deep learning, signal processing, and distributed databases. I like projects that have a real-world angle: predicting engine failures, detecting heartbeats in video, recommending movies, or classifying mushrooms (not the eating kind — the ML kind).
+I design and deploy end-to-end machine learning systems — from raw data ingestion to production-ready models. My work spans predictive modeling, signal processing, computer vision, and distributed databases. I have 5+ years of experience translating complex, ambiguous problems into rigorous data science solutions, including demand forecasting, anomaly detection, and classification systems.
 
-- 🎓 M.S. Computer Science — Arizona State University (CSE 572, EEE 515)
-- 🛠 Languages: Python, SQL, JavaScript, Cypher
-- 📚 Frameworks: scikit-learn, PyTorch, HuggingFace Transformers, OpenCV, Surprise
-- 🗄 Databases: MongoDB, PostgreSQL, CockroachDB, Neo4j, Elasticsearch
-- 📬 Contact: esayasluna@gmail.com
+Previously, as Co-Founder & Lead Data Scientist at **Aspire Pan Africa Training & Consultancy**, I built predictive pipelines to forecast learner outcomes and optimize resource allocation across distributed operations. I hold a B.S. in Computer Science (With Distinction) from Eritrea Institute of Technology and am currently completing my M.S. at ASU.
 
 ---
 
-## Featured Projects
+## Technical Skills
 
-| Project | What It Does | Stack |
+| Area | Tools & Frameworks |
+|---|---|
+| **Languages** | Python, SQL, R |
+| **ML / Modeling** | scikit-learn, XGBoost, PyTorch, LightGBM, LSTM, Random Forest, Logistic Regression |
+| **Big Data** | Apache Spark, Hadoop, Hive, MapReduce |
+| **Cloud** | AWS (S3, SageMaker, Redshift) |
+| **Databases** | MongoDB, PostgreSQL, CockroachDB, Neo4j, Elasticsearch |
+| **Computer Vision** | OpenCV, HuggingFace Transformers |
+| **Tools** | Pandas, NumPy, Git, Jupyter, Airflow, Optuna |
+| **Statistics** | Hypothesis Testing, A/B Experimentation, Bayesian Inference, Cross-Validation |
+
+---
+
+## Projects
+
+| Project | Description | Stack |
 |---|---|---|
-| [Car Engine Failure Predictor](https://github.com/lunaesayassbhatu/car-engine-failure-predictor) | Predicts engine failure risk from diagnostics — desktop GUI included | Python, Random Forest, Tkinter |
-| [Movie Recommender System](https://github.com/lunaesayassbhatu/movie-recommender-system) | Compares User-CF, Item-CF, SVD, and PMF on MovieLens ratings | Python, Surprise, Pandas |
-| [Mushroom Classification](https://github.com/lunaesayassbhatu/cse572-mushroom-classification) | Edible vs poisonous — 4 classifiers with ROC-AUC comparison | scikit-learn, seaborn |
-| [Eulerian Video Magnification](https://github.com/lunaesayassbhatu/eulerian-video-magnification) | Amplifies invisible color changes in video to reveal heartbeats | Python, OpenCV, SciPy |
-| [Machine Vision Projects](https://github.com/lunaesayassbhatu/machine-vision-projects) | FFT filtering, optical flow, object detection, depth estimation | OpenCV, PyTorch, HuggingFace |
-| [Distributed Databases](https://github.com/lunaesayassbhatu/cse512-distributed-databases) | SQL, MongoDB, Hadoop, Neo4j, Elasticsearch — full coverage | SQL, MongoDB, Hadoop, Cypher |
+| [Car Engine Failure Predictor](https://github.com/lunaesayassbhatu/car-engine-failure-predictor) | Predicts engine failure risk from diagnostic parameters using a Random Forest classifier with a desktop GUI | Python, scikit-learn, Tkinter |
+| [Movie Recommender System](https://github.com/lunaesayassbhatu/movie-recommender-system) | Benchmarks User-CF, Item-CF, SVD, and PMF on MovieLens — 5-fold CV with RMSE/MAE comparison | Python, Surprise, Pandas |
+| [Mushroom Classification](https://github.com/lunaesayassbhatu/cse572-mushroom-classification) | Classifies edible vs. poisonous mushrooms using 4 classifiers (LR, DT, RF, AdaBoost) with full ROC-AUC analysis | scikit-learn, seaborn |
+| [K-Means Clustering from Scratch](https://github.com/lunaesayassbhatu/kmeans-clustering-from-scratch) | Implements K-Means with Euclidean, Cosine, and Jaccard distance metrics — no library shortcuts | Python, NumPy |
+| [Logistic Regression — PyTorch](https://github.com/lunaesayassbhatu/logistic-regression-pytorch) | Side-by-side comparison of PyTorch autograd vs. manual gradient descent implementation | PyTorch, NumPy |
+| [Eulerian Video Magnification](https://github.com/lunaesayassbhatu/eulerian-video-magnification) | Amplifies invisible color changes in video (chrominance only) to reveal physiological signals like heartbeat | Python, OpenCV, SciPy |
+| [Machine Vision Projects](https://github.com/lunaesayassbhatu/machine-vision-projects) | FFT filtering, edge detection, optical flow, object detection, and depth estimation | OpenCV, PyTorch, HuggingFace |
+| [Distributed Databases](https://github.com/lunaesayassbhatu/cse512-distributed-databases) | Full coverage of SQL analytics, MongoDB replication, Hadoop MapReduce, Neo4j graph queries, Elasticsearch | SQL, MongoDB, Hadoop, Cypher |
+| [MongoDB E-Commerce Analytics](https://github.com/lunaesayassbhatu/mongodb-ecommerce-analytics) | Aggregation pipelines for order totals, product frequency, high-value customer segmentation | Python, MongoDB |
+| [Color Filter Studio](https://github.com/lunaesayassbhatu/color-filter-studio) | Interactive web app with 8 real-time image filters powered by OpenCV | Python, Gradio, OpenCV |
+| [Data Visualization](https://github.com/lunaesayassbhatu/data-visualization) | Exploratory analysis and visualization of the UCI Adult Income dataset | Python, Matplotlib, Seaborn |
 
 ---
 
-## Skills
+## Education
 
-```
-Machine Learning     ██████████████████░░  90%
-Computer Vision      ████████████████░░░░  80%
-Deep Learning        ███████████████░░░░░  75%
-Distributed Systems  ████████████████░░░░  80%
-Data Visualization   ██████████████████░░  90%
-```
+**M.S. Data Science, Analytics & Engineering** — Arizona State University · 2025–2026 · GPA: 4.0  
+*Machine Learning, Statistical Inference, Data Engineering, Optimization, Operations Research*
+
+**B.S. Computer Science (With Distinction)** — Eritrea Institute of Technology · May 2019 · GPA: 3.82
 
 ---
 
@@ -49,4 +64,4 @@ Data Visualization   ██████████████████░�
 
 ---
 
-*Always building something.*
+*English (Fluent) · Tigrinya (Native)*
