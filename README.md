@@ -1,4 +1,4 @@
-<img width="100%" src="banner.png" alt="Luna Issaias Sbahtu — Data Scientist"/>
+<img width="100%" src="https://raw.githubusercontent.com/lunaesayassbhatu/lunaesayassbhatu/main/banner.png" alt="Luna Issaias Sbahtu — Data Scientist"/>
 
 # Hi, I'm Luna Issaias Sbahtu 👋
 
