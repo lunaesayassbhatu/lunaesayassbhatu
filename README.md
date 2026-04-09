@@ -1,3 +1,5 @@
+<img width="100%" src="banner.png" alt="Luna Issaias Sbahtu — Data Scientist"/>
+
 # Hi, I'm Luna Issaias Sbahtu 👋
 
 **M.S. Data Science, Analytics & Engineering — Arizona State University (GPA: 4.0)**  
