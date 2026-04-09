@@ -2,8 +2,8 @@
 
 # Hi, I'm Luna Issaias Sbahtu 👋
 
-**M.S. Data Science, Analytics & Engineering — Arizona State University (GPA: 4.0)**  
-Co-Founder & Lead Data Scientist · 5+ years building ML systems and analytical pipelines on large-scale datasets.
+**M.S Student in Data Science, Analytics & Engineering — Arizona State University (GPA: 4.0)**  
+Co-Founder & Lead Data Scientist · 2+ years building ML systems and analytical pipelines on large-scale datasets.
 
 ---
 
